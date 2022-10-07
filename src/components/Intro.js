@@ -203,9 +203,11 @@ const Intro = () => {
     >
       <SubBox>
         <Text>
-          <h1>Hi,</h1>
+          <h1>Hey,</h1>
+          
+          <h4>This is </h4>
 
-          <h3>I'm CodeBucks.</h3>
+          <h4>Yogendra Prabhakar.</h4>
 
           <h6>I design and Code simple yet beautiful websites.</h6>
         </Text>
